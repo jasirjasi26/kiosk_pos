@@ -16,6 +16,7 @@ class _CartPageState extends State<Footer> {
       width: MediaQuery.of(context).size.width,
       child: Column(
         children: [
+
           Container(
             width: 80,
             height: 35 ,
